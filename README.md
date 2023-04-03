@@ -17,7 +17,7 @@ Finally, the corresponding entities and intents are converted into query languag
 Experiments show that, based on the knowledge in the field of traditional Chinese medicine and pediatrics, this paper can more completely realize the application process from corpus construction to algorithm design to question and answer retrieval, and basically realize more accurate answers to users' natural language questions.
 
 ## Tips
-There are some files too large to upload, [email me](yuxin.yuki.chen@gmail.com) to get all files.
+There are some files too large to upload, email me (yuxin.yuki.chen@gmail.com) to get all files.
 
 ## How to Contribute
 Please note that this project is released with a [Contributor Code of Conduct](/CODE_OF_CONDUCT.md).
