@@ -1,0 +1,5 @@
+med_use
+med_con
+med_sym
+sym_med
+unknown
